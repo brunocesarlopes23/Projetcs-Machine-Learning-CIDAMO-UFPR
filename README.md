@@ -3,6 +3,7 @@
 <p>    -neste o objetivo é prever a target por meio de algum <b>modelo Linear</b>
 <p>🍷 Segundo Projeto: <a href=https://github.com/brunocesarlopes23/projetcs-course-ml-cidamo/blob/project2/Desafio2.1.ipynb> Classificação de qualidade de vinhos
   <p>     -neste o objetivo é prever o target por meio de algum dos seguintes modelos de classificação <b>(Regressão Logística, SVM, KNN, Naive Beyes)</b>
-<p>Terceiro Projeto:
+<p>⚰️ Terceiro Projeto: <a href=https://github.com/brunocesarlopes23/projetcs-course-ml-cidamo/blob/project3/Desafio3.ipynb> Previsão preço de seguro de vida </a>
+  <p>     -neste o objetivo é prever o target por meio de modelos ensemble <b>Radom Forest e GradientBoost</b>
 <p>Quarto Projeto:
 <p>Quinto Projeto:
